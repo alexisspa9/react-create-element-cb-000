@@ -5,5 +5,5 @@ const title = React.createElement('h1', {}, 'My first React code!');
 
 ReactDOM.render(
   title,
-  document.getElementById(global)
+  document.getElementById('global')
 );
